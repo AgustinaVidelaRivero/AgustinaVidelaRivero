@@ -12,7 +12,7 @@ Estudiante de **Ingeniería en Inteligencia Artificial** en la Universidad de Sa
 Agente multi-step que asiste a estudiantes de UdeSA en consultas académicas. Combina recuperación de información (ChromaDB), planificación y herramientas especializadas. Incluye framework propio de evaluación del retriever.
 
 **Stack:** LangGraph · LangChain · ChromaDB · Flask · Python
-**Repositorio del equipo:** [anacotler/TPFinal_NLP](https://github.com/anacotler/TPFinal_NLP)
+**Repositorio del equipo:** [anacotler/TPFinal_NLP](https://github.com/MoraVigoMalusardi/TP_Final_NLP.git)
 
 ---
 
